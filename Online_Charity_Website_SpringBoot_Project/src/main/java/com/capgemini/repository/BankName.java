@@ -1,0 +1,20 @@
+package com.capgemini.repository;
+
+public enum BankName {
+	STATE_BANK_OF_INDIA,
+	SBI,
+	HDFC,
+	KOTAK,
+	AXIS,
+	ICICI,
+	PUNJAB_NATIONAL_BANK,
+	PNB,
+	BANK_OF_INDIA,
+	BOI,
+	BANK_OF_BARODA,
+	BOB,
+	CANARA_BANK,
+	CENTRAL_BANK_OF_INDIA,
+	UNION_BANK_INDIA,
+
+}

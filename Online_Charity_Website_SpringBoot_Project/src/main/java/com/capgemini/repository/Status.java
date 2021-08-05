@@ -1,0 +1,7 @@
+package com.capgemini.repository;
+
+public enum Status {
+
+	DONATION_DONE_SUCCESSFULLY_THANK_YOU, LOGGED_IN_SUCCESSFULLY_WELCOME, FAILURE_INVALID_CREDENTIALS
+
+}
